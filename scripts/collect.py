@@ -45,14 +45,13 @@ def main() -> int:
     now = datetime.now(TZ)
     date_str = now.strftime("%Y-%m-%d")
     raw = fetch_today_items(token)
-    print("RAW_RESPONSE_START")
-    print(json.dumps(raw, ensure_ascii=False, indent=2))
-    print("RAW_RESPONSE_END")
+
+    if not raw.get("success", False):
+        raise RuntimeError(
+            f"墨墨 API 返回失败：{json.dumps(raw, ensure_ascii=False)}"
+        )
     
-    print("墨墨 API 原始响应：")
-    print(json.dumps(raw, ensure_ascii=False, indent=2))
-    
-    items = raw.get("today_items", [])
+    items = raw.get("data", {}).get("today_items", [])
 
     cleaned = []
     for item in items:
