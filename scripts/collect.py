@@ -15,7 +15,7 @@ TZ = ZoneInfo("Asia/Taipei")
 
 
 def fetch_today_items(token: str) -> dict:
-    payload = json.dumps({"is_finished": True, "limit": 1000}).encode("utf-8")
+    payload = json.dumps({"limit": 1000}).encode("utf-8")
     request = urllib.request.Request(
         API_URL,
         data=payload,
