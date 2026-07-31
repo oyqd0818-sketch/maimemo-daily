@@ -1,7 +1,183 @@
 {
   "date": "2026-07-31",
   "timezone": "Asia/Taipei",
-  "collected_at": "2026-07-31T20:22:18.979808+08:00",
-  "count": 0,
-  "items": []
+  "collected_at": "2026-07-31T20:26:37.511693+08:00",
+  "count": 25,
+  "items": [
+    {
+      "word": "expostulate",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 1
+    },
+    {
+      "word": "galley",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 3
+    },
+    {
+      "word": "implication",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 4
+    },
+    {
+      "word": "tassel",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 5
+    },
+    {
+      "word": "demur",
+      "first_response": "VAGUE",
+      "is_new": true,
+      "is_finished": true,
+      "order": 5
+    },
+    {
+      "word": "filet",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 6
+    },
+    {
+      "word": "ragged",
+      "first_response": "VAGUE",
+      "is_new": true,
+      "is_finished": true,
+      "order": 6
+    },
+    {
+      "word": "vulgar",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 8
+    },
+    {
+      "word": "grovel",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 10
+    },
+    {
+      "word": "expedite",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 12
+    },
+    {
+      "word": "vaunt",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 15
+    },
+    {
+      "word": "dribble",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 19
+    },
+    {
+      "word": "venial",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 20
+    },
+    {
+      "word": "congenial",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 21
+    },
+    {
+      "word": "sequacious",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 24
+    },
+    {
+      "word": "gobble",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 27
+    },
+    {
+      "word": "enmesh",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 28
+    },
+    {
+      "word": "rival",
+      "first_response": "FAMILIAR",
+      "is_new": false,
+      "is_finished": true,
+      "order": 29
+    },
+    {
+      "word": "vitiate",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 30
+    },
+    {
+      "word": "transfigure",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 31
+    },
+    {
+      "word": "reprobate",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 32
+    },
+    {
+      "word": "scalp",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 33
+    },
+    {
+      "word": "felicitate",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 35
+    },
+    {
+      "word": "swamp",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 36
+    },
+    {
+      "word": "potentate",
+      "first_response": "VAGUE",
+      "is_new": false,
+      "is_finished": true,
+      "order": 37
+    }
+  ]
 }
